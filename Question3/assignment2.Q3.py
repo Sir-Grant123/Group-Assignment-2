@@ -1,8 +1,8 @@
-#Group name: CAS15
-#Group member1: Atulya Subedi, Student ID: S394148
-#Group member2: Oliver Charles Cole, Student ID: S368184
-#Group member3: Megh RakeshKumar Brahmbhatt, Student ID: S394095
-
+"""Group name: CAS15
+Group member1: Atulya Subedi, Student ID: S394148
+Group member2: Oliver Charles Cole, Student ID: S368184
+Group member3: Megh RakeshKumar Brahmbhatt, Student ID: S394095
+"""
 # importing turtle module required for the assignment
 import turtle
 
